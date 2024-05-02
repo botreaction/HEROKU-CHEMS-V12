@@ -418,7 +418,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: botname,
 body: ownername,
-thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+thumbnailUrl: 'https://telegra.ph/file/3dcb4d9b4b044f1c8b51f.jpg',
 sourceUrl: websitex
 },
 },
@@ -576,9 +576,9 @@ return arr[Math.floor(Math.random() * arr.length)]
                if (!('autodownload' in setting)) setting.autodownload = false 
                if (!('autobio' in setting)) setting.autobio = false 
                if (!('autoread' in setting)) setting.autoread = false
-               if (!('autorecordtype' in setting)) setting.autorecordtype = false
+               if (!('autorecordtype' in setting)) setting.autorecordtype = true
                if (!('autorecord' in setting)) setting.autorecord = false
-               if (!('autotype' in setting)) setting.autotype = true
+               if (!('autotype' in setting)) setting.autotype = false
                if (!('autoblocknum' in setting)) setting.autoblocknum = false
                if (!('onlyindia' in setting)) setting.onlyindia = false
                if (!('onlyindo' in setting)) setting.onlyindo = true
@@ -599,9 +599,9 @@ return arr[Math.floor(Math.random() * arr.length)]
                onlyindo: true,
                onlygrub: false,
                onlypc: false,
-               autorecordtype: false,
+               autorecordtype: true,
                autorecord: false,
-               autotype: true,
+               autotype: false,
                watermark: {
                   packname: global.packname, 
                   author: global.author
