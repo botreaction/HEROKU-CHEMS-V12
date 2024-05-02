@@ -1,0 +1,320 @@
+{
+  "users": {
+    "919366316018@s.whatsapp.net": {
+      "serialNumber": "5748ef2731f9b0ab993964d915670166",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Hui",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "17022132348@s.whatsapp.net": {
+      "serialNumber": "fa9bcc52bcef6f33b6411f79f5879557",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Nikeamd",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6289688206739@s.whatsapp.net": {
+      "serialNumber": "dcb2b1d1ef612e1408b2fe44ada4d267",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Wily",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6283136021154@s.whatsapp.net": {
+      "serialNumber": "447f8738b1056039ba79e4e433507c22",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Ini RullZ",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6288705922833@s.whatsapp.net": {
+      "serialNumber": "7f8b07c6abe835c01abc372bf3a9e037",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Cyahh.",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6285719218043@s.whatsapp.net": {
+      "serialNumber": "d289a0a5ff682076f8bc079fe315db94",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "フェルディ",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6285656844692@s.whatsapp.net": {
+      "serialNumber": "74a7fd44dfdbe18014cfa33a7370cc1c",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 856-5684-4692",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6282289808505@s.whatsapp.net": {
+      "serialNumber": "2abebbdefe8a377c91b7e3bd744890a5",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 822-8980-8505",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6283873123398@s.whatsapp.net": {
+      "serialNumber": "4b67b2feec9daf4adf23e4c6017c6268",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 838-7312-3398",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6287759977865@s.whatsapp.net": {
+      "serialNumber": "635aa3d99226fcb6d4f0c160f776b1b7",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 877-5997-7865",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6285336580720@s.whatsapp.net": {
+      "serialNumber": "1289eea3bf34f812728fceb2c2dbfb97",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 853-3658-0720",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    }
+  },
+  "database": {},
+  "chats": {
+    "120363047626537933@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "17022132348@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "6289688206739@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363022265526658@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363024287406572@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363167427377556@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {
+    "math": []
+  },
+  "settings": {
+    "919366316018@s.whatsapp.net": {
+      "totalhit": 4,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Cheems Bot MD V12"
+        },
+        "owner": {
+          "nick": "+91 69091 37213",
+          "alias": "916909137213"
+        }
+      }
+    },
+    "17022132348@s.whatsapp.net": {
+      "totalhit": 36,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+      },
+      "about": {
+        "bot": {
+          "nick": "Nikeamd",
+          "alias": "Cheems Bot MD V12"
+        },
+        "owner": {
+          "nick": "+91 69091 37213",
+          "alias": "916909137213"
+        }
+      }
+    }
+  },
+  "message": {},
+  "sticker": {},
+  "others": {
+    "vote": []
+  }
+}
