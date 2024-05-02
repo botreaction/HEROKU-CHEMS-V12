@@ -576,8 +576,8 @@ return arr[Math.floor(Math.random() * arr.length)]
                if (!('autodownload' in setting)) setting.autodownload = false 
                if (!('autobio' in setting)) setting.autobio = false 
                if (!('autoread' in setting)) setting.autoread = false
-               if (!('autorecordtype' in setting)) setting.autorecordtype = true
-               if (!('autorecord' in setting)) setting.autorecord = false
+               if (!('autorecordtype' in setting)) setting.autorecordtype = false
+               if (!('autorecord' in setting)) setting.autorecord = true
                if (!('autotype' in setting)) setting.autotype = false
                if (!('autoblocknum' in setting)) setting.autoblocknum = false
                if (!('onlyindia' in setting)) setting.onlyindia = false
@@ -599,8 +599,8 @@ return arr[Math.floor(Math.random() * arr.length)]
                onlyindo: true,
                onlygrub: false,
                onlypc: false,
-               autorecordtype: true,
-               autorecord: false,
+               autorecordtype: false,
+               autorecord: true,
                autotype: false,
                watermark: {
                   packname: global.packname, 
@@ -4766,6 +4766,7 @@ replygcxeon(`Sorry this video can't be download\n\nRequest failed with status co
 }
 }
 break
+case 'tt':
 case 'tiktokvideo':
 case 'tiktokmp4': {
 if (!q) return replygcxeon( `Contoh : ${prefix + command} link`)
@@ -5361,7 +5362,7 @@ var notnot = JSON.parse(fs.readFileSync('./src/media/randompics/wallhp.json'))
 var hasil = pickRandom(notnot)
 XeonBotInc.sendMessage(m.chat, { caption: mess.success, image: { url: hasil.url } }, { quoted: m })
 break
-            case 'remini': {
+           case 'hd': case 'remini': {
 			if (!quoted) return replygcxeon(`Where is the picture?`)
 			if (!/image/.test(mime)) return replygcxeon(`Send/Reply Photos With Captions ${prefix + command}`)
 			await XeonStickWait()
