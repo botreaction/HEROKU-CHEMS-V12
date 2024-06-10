@@ -15,7 +15,7 @@
     "author": "wilmoko",
     "license": "MIT",
     "dependencies": {
-        "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@latest",
+        "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@^6.6.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "yargs": "^17.7.2",
         "@hapi/boom": "^10.0.1",
