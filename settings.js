@@ -36,11 +36,11 @@ global.typemenu = 'v9' // menu type 'v1' => 'v10'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = true //welcome/left in groups
-global.anticall = true //bot blocks user when called
+global.welcome = false //welcome/left in groups
+global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
-global.adminevent = true //show promote/demote message
-global.groupevent = true //show update messages in group chat
+global.adminevent = false //show promote/demote message
+global.groupevent = false //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
